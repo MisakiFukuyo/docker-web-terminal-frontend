@@ -1,5 +1,9 @@
 # docker-web-terminal-frontend
 
+## Backend server (required)
+
+https://github.com/TakafumiFukuyo/docker-web-terminal
+
 ## Usage
 
 ### Prepare .env file
