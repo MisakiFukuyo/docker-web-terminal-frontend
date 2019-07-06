@@ -1,0 +1,9 @@
+{
+  "javascript.suggestionActions.enabled": false,
+  "path-autocomplete.pathMappings": {
+    "~": "${folder}/src",
+    "@": "${folder}/src",
+    "~~": "${folder}",
+    "@@": "${folder}"
+  }
+}
